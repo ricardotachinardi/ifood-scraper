@@ -6,7 +6,7 @@ I uploaded to Kaggle the datasets corresponding to November 2020 and February 20
 
 # Installation and use of the scrapper
 
-***Remember to install lista_coordenadas.csv and put in the same folder as the spider***
+***Remember to install coordinates_list.csv and put in the same folder as the spider***
 
 Install it using `pip` (preferably on an virtual environment):
 ```shell
