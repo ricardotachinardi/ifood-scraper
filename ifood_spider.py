@@ -1,4 +1,4 @@
-# run the file using scrapy runspider ifood-spider.py
+# run the file using scrapy runspider ifood-spider.py -o output.csv
 # inspired by https://github.com/nathan-cruz77/ifood/blob/master/ifood_spider.py
 import json
 import scrapy
@@ -53,7 +53,7 @@ class IfoodSpider(scrapy.Spider):
     name = 'ifood'
 
     def start_requests(self):
-        df = pd.read_csv("lista_coordenadas.csv")
+        df = pd.read_csv("coordinates_list.csv")
 
         # you can use an smaller part of the df
         #df = df.iloc[5573:5660]
