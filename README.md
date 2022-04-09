@@ -1,8 +1,8 @@
 # Overview
-The project use the API presented [here](https://github.com/ricardotachinardi/ifood-scraper/blob/main/explorando_api_ifood.ipynb) to scrape data about all the restaurants in iFood using an Scrapy Spider.
+This project uses the API presented [here](https://github.com/ricardotachinardi/ifood-scraper/blob/main/explorando_api_ifood.ipynb) to scrape data about all the restaurants in iFood using an Scrapy Spider.
 
 # Download the complete datasets
-I uploaded to Kaggle the datasets corresponding to November 2020 and February 2021, see [here](https://www.kaggle.com/ricardotachinardi/ifood-restaurants-data)
+I uploaded the November 2020 and February 2021 datasets to Kaggle, see [here](https://www.kaggle.com/ricardotachinardi/ifood-restaurants-data)
 
 # Installation and use of the scraper
 
